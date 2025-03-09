@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/KyntonKCC">
       <img src="https://github-readme-stats.vercel.app/api?username=KyntonKCC&theme=gruvbox&rank_icon=github" width="50%" align="left"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyntonKCC&theme=gruvbox" width="50%" align="left"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut-vertical&theme=gruvbox" width="35%" align="right"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut-vertical&theme=gruvbox" width="35%"/>
     </a>
 </div>
 
