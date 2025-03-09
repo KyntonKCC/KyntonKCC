@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" >
-<a  href="https://github.com/KyntonKCC">
 
-<img src="https://raw.githubusercontent.com/KyntonKCC/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/KyntonKCC/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/KyntonKCC/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
+<div align="center" width="50">
+  
+<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 
 ![Kaicheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyntonKCC&show_icons=true&theme=tokyonight&hide_border=true)
