@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left" width="50">
+<div align="center">
   
-<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" 
-  href="https://github.com/KyntonKCC" 
-  alt="Workspace"  
-  width="75%"/><br> 
+<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%"/><br> 
 
