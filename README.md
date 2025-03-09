@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" width="50">
+<div align="center" width="75">
   
-<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" 
+  href="https://github.com/KyntonKCC" 
+  alt="Workspace"  
+  width="75%"/><br> 
 
-
-![Kaicheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyntonKCC&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KyntonKCC&theme=tokyonight&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=compact&theme=tokyonight&hide_border=true&hide=html)
