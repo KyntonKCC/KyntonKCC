@@ -40,8 +40,8 @@ Here are some ideas to get you started:
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/csharp-original.svg" alt="csharp" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/java-original.svg" alt="java" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/python-original.svg" alt="python" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/git-scm-icon.svg" alt="git" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/git-scm-icon.svg" alt="git" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/linux-original.svg" alt="linux" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="60" height="60"/>
     </a> 
