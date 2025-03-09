@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/KyntonKCC">
-  <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%"/><br> 
-</a>
+<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%"/>
 
-## 🔥 Github Stats
+## 🔥 Github Statsus
 
-![Kaicheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyntonKCC\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-<a href="https://github.com/KyntonKCC">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=KyntonKCC&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="50%">
-</a>
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyntonKCC&theme=gruvbox&rank_icon=github" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaicheng&theme=gruvbox" width="50%">
+</div>
