@@ -53,5 +53,6 @@ Here are some ideas to get you started:
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vscode-original.svg" alt="vscode" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vim-original.svg" alt="vim" width="60" height="60"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/Eclipse-IDE.svg" alt="eclipse" width="60" height="60"/>
     </a> 
 </div>
