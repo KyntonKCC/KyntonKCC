@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <p>🌱 I’m a Computer Science student at Cheng Kung University.</p>
         <p>🧑‍💻 Passionate about exploring new ideas and continuously learning.</p>
         <p>🌞 I love staying active! Whether it’s cycling 🚴, running 🏃, baseball ⚾, disc sports 🥏, darts 🎯, or bowling 🎳, It’s my kind of fun.</p>
-        <p>✨ When I’m not on the move, I enjoy solving puzzles 🧩, watching movies 🎬 & binge-watching 🍿, or just relaxing with music 🎧.</p>
+        <p>✨ When I’m not on the move, I enjoy solving puzzles 🧩, watching movies 🎬 <br>& binge-watching 🍿, or just relaxing with music 🎧.</p>
         <p>☄️ If there’s a golf course 🏌️‍♂⛳️, you might just find me there too!</p>
         <p>💬 Feel free to hit me up if you want to chat about any of these!</p>
         <p>📫 Shoot me an email at <a href="mailto:kyntonchuang2003@gmail.com">kyntonchuang2003@gmail.com</a>. I’ll get back to you as soon as I can!</p>
