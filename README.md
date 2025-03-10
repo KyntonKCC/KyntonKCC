@@ -44,5 +44,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/git-scm-icon.svg" alt="git" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/linux-original.svg" alt="linux" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/>
     </a> 
 </div>
