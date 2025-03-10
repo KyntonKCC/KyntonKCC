@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://github.com/KyntonKCC">
-        <img src="https://github-readme-stats.vercel.app/api?username=KyntonKCC&theme=gruvbox&rank_icon=github" width="56.5%"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut&theme=gruvbox" width="40%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=KyntonKCC&rank_icon=github&theme=great-gatsby" width="56.5%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut&theme=great-gatsby" width="40%"/>
     </a>
 </div>
 
