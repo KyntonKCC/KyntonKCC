@@ -15,20 +15,22 @@ Here are some ideas to get you started:
 
 # Hello, I'm Kaicheng! Nice to Meet You! <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px">
 
-<div align="center">
-    <a href="https://github.com/KyntonKCC">
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%" align="center"/>
-    </a>
-</div>
-
-## 🔥 Github Stats
+## 🚀 About me
 
 <div>
-    <a href="https://github.com/KyntonKCC">
-      <img src="https://github-readme-stats.vercel.app/api?username=KyntonKCC&theme=gruvbox&rank_icon=github" width="50%" align="left"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyntonKCC&theme=gruvbox" width="50%" align="left"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut-vertical&theme=gruvbox" width="35%"/>
-    </a>
+    <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%" align="right"/>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; max-width: 60%;">
+    <p>🌱 I’m a Computer Science student at Cheng Kung University.</p>
+    <p>🧑‍💻 Passionate about exploring new ideas and continuously learning.</p>
+    <p>🌞 I love staying active! Whether it’s cycling 🚴, running 🏃, disc sports 🥏, baseball ⚾, darts 🎯, or bowling 🎳, It’s just my kind of fun.</p>
+    <p>✨ When I’m not on the move, I enjoy solving puzzles 🧩, watching movies 🎬 & binge-watching 🍿, or just relaxing with music 🎧.</p>
+    <p>☄️ If there’s a golf course 🏌️‍♂⛳️, you might just find me there too!</p>
+    <p>💬 Feel free to hit me up if you want to chat about any of these!</p>
+    <p>📫 You can shoot me an email at <a href="mailto:kyntonchuang2003@gmail.com">kyntonchuang2003@gmail.com</a>. I'll try to respond as soon as possible!</p>
+  </div>
 </div>
 
 ## 🔥 Languages
@@ -57,3 +59,14 @@ Here are some ideas to get you started:
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="60" height="60"/>
     </a> 
 </div>
+
+## 🔥 Github Stats
+
+<div>
+    <a href="https://github.com/KyntonKCC">
+      <img src="https://github-readme-stats.vercel.app/api?username=KyntonKCC&theme=gruvbox&rank_icon=github" width="50%" align="left"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyntonKCC&theme=gruvbox" width="50%" align="left"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut-vertical&theme=gruvbox" width="35%"/>
+    </a>
+</div>
+
