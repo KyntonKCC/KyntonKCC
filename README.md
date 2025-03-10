@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-## 🔥 Languages and Tools
+## 🔥 Languages
 
 <div>
     <a href="https://github.com/KyntonKCC"> 
@@ -41,10 +41,17 @@ Here are some ideas to get you started:
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/java-original.svg" alt="java" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/python-original.svg" alt="python" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+    </a> 
+</div>
+
+## 🔥 Tools
+
+<div>
+    <a href="https://github.com/KyntonKCC"> 
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/git-scm-icon.svg" alt="git" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/linux-original.svg" alt="linux" width="60" height="60"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="60" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vscode-original.svg" alt="vscode" width="60" height="60"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vim-original.svg" alt="vim" width="60" height="60"/>
     </a> 
 </div>
