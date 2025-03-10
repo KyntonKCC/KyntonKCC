@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Kaicheng! Nice to Meet You! <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px">
+## Hello I'm Kaicheng! Nice to Meet You! <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px">
 
-## 🚀 About me
+### 🚀 About me
 
 <div>
     <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%" align="right"/>
@@ -29,38 +29,38 @@ Here are some ideas to get you started:
     <p>✨ When I’m not on the move, I enjoy solving puzzles 🧩, watching movies 🎬 & binge-watching 🍿, or just relaxing with music 🎧.</p>
     <p>☄️ If there’s a golf course 🏌️‍♂⛳️, you might just find me there too!</p>
     <p>💬 Feel free to hit me up if you want to chat about any of these!</p>
-    <p>📫 You can shoot me an email at <a href="mailto:kyntonchuang2003@gmail.com">kyntonchuang2003@gmail.com</a>. I'll try to respond as soon as possible!</p>
+    <p>📫 Shoot me an email at <a href="mailto:kyntonchuang2003@gmail.com">kyntonchuang2003@gmail.com</a>. I’ll get back to you as soon as I can!</p>
   </div>
 </div>
 
-## 🔥 Languages
+### 🔥 Languages
 
 <div>
     <a href="https://github.com/KyntonKCC"> 
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/c-original.svg" alt="c" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/csharp-original.svg" alt="csharp" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/python-original.svg" alt="python" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/java-original.svg" alt="java" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/c-original.svg" alt="c" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/csharp-original.svg" alt="csharp" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a> 
 </div>
 
-## 🔥 Tools
+### 🛠 Tools
 
 <div>
     <a href="https://github.com/KyntonKCC"> 
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vscode-original.svg" alt="vscode" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/visual-studio.svg" alt="visual-studio" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vim-original.svg" alt="vim" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/Eclipse-IDE.svg" alt="eclipse" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/git-scm-icon.svg" alt="git" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/linux-original.svg" alt="linux" width="60" height="60"/>
-        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="60" height="60"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vscode-original.svg" alt="vscode" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/visual-studio.svg" alt="visual-studio" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vim-original.svg" alt="vim" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/Eclipse-IDE.svg" alt="eclipse" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/linux-original.svg" alt="linux" width="40" height="40"/>
+        <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/github.svg" alt="GitHub" width="40" height="40"/>
     </a> 
 </div>
 
-## 🔥 Github Stats
+### ⚙️ Github Stats
 
 <div>
     <a href="https://github.com/KyntonKCC">
