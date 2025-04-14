@@ -62,9 +62,3 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyntonKCC&layout=donut&theme=great-gatsby" width="40%"/>
     </a>
 </div>
-
-<br>
-
-<div align="center">
-    <p>😍 Thanks for watching my profile! Have a nice day! 😉</p>
-</div>
