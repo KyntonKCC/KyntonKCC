@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <p>🌱 I’m a Computer Science student at National Cheng Kung University.</p>
         <p>🧑‍💻 Passionate about exploring new ideas and continuously learning.</p>
         <p>🌞 Activity in cycling, running, golf, baseball, darts & bowling.</p>
-        <p>✨ Interest in solving puzzles, watching movies, binge-watching, relaxing with music, NBA, MLB & Formula 1.</p>
+        <p>✨ Interest in tabletop games, watching movies, binge-watching, relaxing with music, NBA, MLB & Formula 1.</p>
     </div>
 </div>
 
