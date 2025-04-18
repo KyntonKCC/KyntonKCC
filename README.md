@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🚀 About me</h3>
 
 <div>
-    <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="50%" align="right"/>
+    <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="45%" align="right"/>
 </div>
 
 <div style="display: flex; align-items: flex-start;">
