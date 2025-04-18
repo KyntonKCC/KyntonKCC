@@ -23,15 +23,10 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; max-width: 60%;">
-        <p>🌱 I’m a Computer Science student at Cheng Kung University.</p>
+        <p>🌱 I’m a Computer Science student at National Cheng Kung University.</p>
         <p>🧑‍💻 Passionate about exploring new ideas and continuously learning.</p>
-        <p> Activity 🚴🏃⚾🥏🎯🎳🏌️‍♂⛳️</p>
-        <p> Interest 🧩🎬🍿🎧</p>
         <p>🌞 Activity cycling, running, baseball, golf, disc sports, darts, bowling</p>
         <p>✨ Interest solving puzzles, watching movies, binge-watching, relaxing with music.</p>
-        <p>🌞 I love staying active! Whether it’s cycling 🚴, running 🏃, baseball ⚾, disc sports 🥏, darts 🎯, or bowling 🎳, It’s my kind of fun.</p>
-        <p>✨ When I’m not on the move, I enjoy solving puzzles 🧩, watching movies 🎬 <br>& binge-watching 🍿, or just relaxing with music 🎧.</p>
-        <p>☄️ If there’s a golf course 🏌️‍♂⛳️, you might just find me there too!</p>
     </div>
 </div>
 
