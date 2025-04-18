@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hello I'm Kaicheng! Nice to Meet You! <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px"></h2>
+<h2>Hello I'm Kaicheng! Nice to Meet You!<img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px"></h2>
 
-<h3> 🚀 About me</h3>
+<h3>🚀 About me</h3>
 
 <div>
     <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="40%" align="right"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h3> 🔥 Languages & Tools</h3>
+<h3>🔥 Programming Languages</h4>
 
 <div>
     <a href="https://github.com/KyntonKCC"> 
@@ -40,7 +40,13 @@ Here are some ideas to get you started:
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/python-original.svg" alt="python" width="40" height="40"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/java-original.svg" alt="java" width="40" height="40"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        <br>
+    </a> 
+</div>
+
+<h3>🛠️ IDEs & Editors</h4>
+
+<div>
+    <a href="https://github.com/KyntonKCC"> 
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vscode-original.svg" alt="vscode" width="40" height="40"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/visual-studio.svg" alt="visual-studio" width="40" height="40"/>
         <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/vim-original.svg" alt="vim" width="40" height="40"/>
@@ -51,7 +57,7 @@ Here are some ideas to get you started:
     </a> 
 </div>
 
-<h3> ⚙️ Github Stats</h3>
+<h3>⚙️ Github Stats</h3>
 
 <div>
     <a href="https://github.com/KyntonKCC">
