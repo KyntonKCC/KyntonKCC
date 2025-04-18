@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello I'm Kaicheng! Nice to Meet You! <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px">
+<h2> Hello I'm Kaicheng! Nice to Meet You! <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/wave.gif" width="30px"></h2>
 
-### 🚀 About me
+<h3> 🚀 About me</h3>
 
 <div>
     <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="40%" align="right"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-### 🔥 Languages & Tools
+<h3> 🔥 Languages & Tools</h3>
 
 <div>
     <a href="https://github.com/KyntonKCC"> 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     </a> 
 </div>
 
-### ⚙️ Github Stats
+<h3> ⚙️ Github Stats</h3>
 
 <div>
     <a href="https://github.com/KyntonKCC">
