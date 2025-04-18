@@ -25,8 +25,8 @@ Here are some ideas to get you started:
     <div style="flex: 1; max-width: 60%;">
         <p>🌱 I’m a Computer Science student at National Cheng Kung University.</p>
         <p>🧑‍💻 Passionate about exploring new ideas and continuously learning.</p>
-        <p>🌞 Activity cycling, running, baseball, golf, disc sports, darts, bowling</p>
-        <p>✨ Interest solving puzzles, watching movies, binge-watching, relaxing with music.</p>
+        <p>🌞 Activity in cycling, running, baseball, golf, disc sports, darts, bowling</p>
+        <p>✨ Interest in solving puzzles, watching movies, binge-watching, relaxing with music.</p>
     </div>
 </div>
 
