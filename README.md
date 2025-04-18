@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h3>🚀 About me</h3>
 
 <div>
-    <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="40%" align="right"/>
+    <img src="https://github.com/KyntonKCC/KyntonKCC/blob/main/images/dev-working_rounded.gif" width="35%" align="right"/>
 </div>
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; max-width: 60%;">
         <p>🌱 I’m a Computer Science student at National Cheng Kung University.</p>
         <p>🧑‍💻 Passionate about exploring new ideas and continuously learning.</p>
-        <p>🌞 Activity in cycling, running, baseball, golf, disc sports, darts, bowling</p>
+        <p>🌞 Activity in cycling, running, golf, baseball, disc sports, darts, bowling.</p>
         <p>✨ Interest in solving puzzles, watching movies, binge-watching, relaxing with music.</p>
     </div>
 </div>
